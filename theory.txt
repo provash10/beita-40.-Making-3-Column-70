@@ -1,0 +1,60 @@
+70. Making 3 Column
+<link href="css/style.css" rel="stylesheet"/>
+Website total =960px
+=================================================
+<div>
+
+Website total =960px 
+
+3 Column 300*3+60=960 px
+ 
+Per Column have a div (3 Column)
+div1 a. image  b. h1 c. p  d. link
+div2 a. image  b. h1 c. p  d. link
+div3 a. image  b. h1 c. p  d. link
+
+</div>
+====================================
+HTML >>> div class= wrapper, box
+
+<div class="wrapper">
+        <div class="box">
+            <img src="img/NF.PNG" alt="NF"/>
+        <h2>This a simple Paragraph</h2>
+        <p> 
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+        </p>
+        <a href="#">Click Here</a>
+        </div>
+
+        <div class="box">
+            <img src="img/NF.PNG" alt="NF"/>
+        <h2>This a simple Paragraph</h2>
+        <p> 
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+        </p>
+        <a href="#">Click Here</a>
+        </div>
+
+        <div class="box">
+            <img src="img/NF.PNG" alt="NF"/>
+        <h2>This a simple Paragraph</h2>
+        <p> 
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+            This is a story.This is a story.This is a story.This is a story.This is a story.This is a story.
+        </p>
+        <a href="#">Click Here</a>
+        </div>
+    </div>
+    ==========================
